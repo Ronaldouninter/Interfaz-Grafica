@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Interfaz_Grafica
 {
+    /// <summary>
+    /// Ronaldo Nuñez
+    /// en esta clase se definen las propiedades de los planetas, como su nombre, atmosfera, peligro y recursos
+    /// </summary>
     public class Planetas
     {
         public int ID { get; set; } 

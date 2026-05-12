@@ -11,6 +11,10 @@ using System.Windows.Forms;
 
 namespace Interfaz_Grafica
 {
+    /// <summary>
+    /// Ronaldo Nuñez  26
+    /// En este formulario se muestra una tabla con los planetas descubiertos, con sus respectivas propiedades como su nombre, atmosfera, peligro y recursos.
+    /// </summary>//
     public partial class Form1 : Form
     {
         List<Planetas> listaplanetas = new List<Planetas>();
